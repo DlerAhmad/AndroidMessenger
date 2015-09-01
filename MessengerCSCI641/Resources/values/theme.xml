@@ -1,0 +1,13 @@
+﻿<resources>
+
+  <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+    <item name="android:actionBarStyle">@style/MyActionBar</item>
+  </style>
+
+  <style name="MyActionBar"
+     parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    <item name="android:displayOptions"></item>
+    <item name="android:background">#3b5999</item>
+  </style>
+</resources>
+

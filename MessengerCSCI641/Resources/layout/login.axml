@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:paddingLeft="50dp"
+    p1:paddingRight="50dp"
+    p1:paddingTop="150dp">
+    <TextView
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:text="Please use your existing/new account information to log in."
+        p1:layout_width="match_parent"
+        p1:layout_height="100dp"
+        p1:layout_gravity="center"
+        p1:id="@+id/textView2" />
+    <EditText
+        p1:inputType="textPersonName"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/editText1"
+        p1:hint="first name" />
+    <EditText
+        p1:inputType="textPersonName"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/editText2"
+        p1:hint="last name" />
+    <EditText
+        p1:inputType="textEmailAddress"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/editText3"
+        p1:hint="email address" />
+    <EditText
+        p1:inputType="textPassword"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/editText4"
+        p1:hint="password" />
+    <Button
+        p1:text="Login"
+        p1:layout_width="100dp"
+        p1:layout_height="wrap_content"
+        p1:layout_gravity="center"
+        p1:id="@+id/loginButton" />
+    <TextView
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_gravity="center"
+        p1:id="@+id/textView1"
+        p1:textColor="@android:color/holo_red_dark" />
+</LinearLayout>

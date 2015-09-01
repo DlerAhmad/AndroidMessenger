@@ -1,0 +1,48 @@
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.pdb
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.dll.mdb
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.MessengerCSCI641.apk
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.MessengerCSCI641-Signed.apk
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\GooglePlayServicesLib.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.dll
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.pdb
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\android\bin\MessengerCSCI641.MessengerCSCI641.apk
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\layout\main.xml
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\values\strings.xml
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\drawable\icon.png
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\R.cs.flag
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\uploadflags.txt
+E:\projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.csprojResolveAssemblyReference.cache
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.pdb
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.dll.mdb
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.MessengerCSCI641.apk
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\MessengerCSCI641.MessengerCSCI641-Signed.apk
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\GooglePlayServicesLib.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.dll
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.pdb
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\android\bin\MessengerCSCI641.MessengerCSCI641.apk
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\layout\login.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\layout\chatactivity.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\layout\main.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\values\strings.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\drawable\icon.png
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\drawable\marker.png
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\drawable\menu.png
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\values\theme.xml
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\R.cs.flag
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\uploadflags.txt
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\MessengerCSCI641.csprojResolveAssemblyReference.cache
+C:\Users\Dler Ahmad\Documents\Visual Studio 2015\Projects\MessengerCSCI641\MessengerCSCI641\obj\Debug\res\drawable\notif.png
